@@ -13,6 +13,7 @@ cmake
 to compile this 
 
 meson setup build 
+
 ninja -C build 
 
 to install this 
