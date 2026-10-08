@@ -1,4 +1,5 @@
 # railwm is scrollable tiling window manager writen in C. with animations build in
+it was inspired by paperwm and niri 
 
 # source requrements 
 
