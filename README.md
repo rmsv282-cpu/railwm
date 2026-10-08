@@ -1,3 +1,5 @@
+# railwm is scrollable tiling window manager writen in C. with animations build in
+
 # source requrements 
 
 libx11-dev 
