@@ -23,3 +23,18 @@ copy the binaries into /usr/local/bin or if you have ~/.local/bin on PATH instal
 ## NOTE i didnt check the config patterns. once i come there i will update readme with configuration docs
 
 to install the release binary just tar -xvf railwm-bin.tar.xz and follow the installation above
+
+
+## what railwm lacks
+
+multi monitor support 
+
+mouse click control of the strips. only keyboard usage
+
+no csm. but who wants it in a tiler? 
+
+you cant move floating windows around here. but who cares. i may add controls for that. but time will tell
+
+## future plans 
+
+i may port this to GO language. but we will see 
