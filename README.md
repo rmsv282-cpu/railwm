@@ -35,6 +35,7 @@ multi monitor support
 mouse click control of the strips. only keyboard usage
 
 no csm. but who wants it in a tiler? 
+## dont claim the text above as roadmap. it just what it lacks
 
 you cant move floating windows around here. but who cares. i may add controls for that. but time will tell
 
