@@ -1,4 +1,4 @@
-source requrements 
+# source requrements 
 
 libx11-dev 
 pkg-config 
@@ -10,13 +10,13 @@ libcairo-dev
 xorg
 cmake 
 
-to compile this 
+# to compile railwm
 
 meson setup build 
 
 ninja -C build 
 
-to install this 
+# to install railwm 
 
 copy the binaries into /usr/local/bin or if you have ~/.local/bin on PATH install it there 
 
