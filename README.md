@@ -68,4 +68,6 @@ arch based distros werent tested.
 # really big note. 
 
 ## this all code writen by llm. so i may not add licensing. if anyone want to takedown this. feel free to do so
+i have no obligation to explain the code i didnt write. only directions were my
+
 the readme is entirely writen by human
