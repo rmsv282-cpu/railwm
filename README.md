@@ -38,3 +38,26 @@ you cant move floating windows around here. but who cares. i may add controls fo
 ## future plans 
 
 i may port this to GO language. but we will see 
+
+
+## tested hardware 
+
+3 intel pcs which are pentium which is my main pc with debian sid, 
+celeron c1037 but that attempt with celeron failed because of chimera-linux weirdness,
+and i3 4130 << this cpu is where railwm journey started
+amd pc with fm2 socket railwm was tested on 
+
+## tested linux distros 
+
+chimera 
+fedora 
+nixos 
+alpine 
+void 
+debian-sid 
+crux 
+gentoo 
+venom 
+opensuse
+
+arch based distros werent tested. 
